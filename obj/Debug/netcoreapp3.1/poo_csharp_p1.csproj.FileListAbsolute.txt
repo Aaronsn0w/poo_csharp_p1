@@ -1,0 +1,11 @@
+C:\Users\Aaron\repo\poo_csharp_p1\bin\Debug\netcoreapp3.1\poo_csharp_p1.exe
+C:\Users\Aaron\repo\poo_csharp_p1\bin\Debug\netcoreapp3.1\poo_csharp_p1.deps.json
+C:\Users\Aaron\repo\poo_csharp_p1\bin\Debug\netcoreapp3.1\poo_csharp_p1.runtimeconfig.json
+C:\Users\Aaron\repo\poo_csharp_p1\bin\Debug\netcoreapp3.1\poo_csharp_p1.runtimeconfig.dev.json
+C:\Users\Aaron\repo\poo_csharp_p1\bin\Debug\netcoreapp3.1\poo_csharp_p1.dll
+C:\Users\Aaron\repo\poo_csharp_p1\bin\Debug\netcoreapp3.1\poo_csharp_p1.pdb
+C:\Users\Aaron\repo\poo_csharp_p1\obj\Debug\netcoreapp3.1\poo_csharp_p1.csprojAssemblyReference.cache
+C:\Users\Aaron\repo\poo_csharp_p1\obj\Debug\netcoreapp3.1\poo_csharp_p1.AssemblyInfoInputs.cache
+C:\Users\Aaron\repo\poo_csharp_p1\obj\Debug\netcoreapp3.1\poo_csharp_p1.AssemblyInfo.cs
+C:\Users\Aaron\repo\poo_csharp_p1\obj\Debug\netcoreapp3.1\poo_csharp_p1.dll
+C:\Users\Aaron\repo\poo_csharp_p1\obj\Debug\netcoreapp3.1\poo_csharp_p1.pdb
