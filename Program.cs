@@ -8,7 +8,7 @@ namespace poo_csharp_p1
         {
             // Console.WriteLine(holaEstudiante());
             // numerosDelUnoAlCincuenta();
-            numerosRandom();
+            //numerosRandom();
             Console.ReadKey();
         }
 
