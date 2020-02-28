@@ -72,8 +72,15 @@ namespace poo_csharp_p1
         string Color;
         string estado = "apagado";
 
-        public void obtenerInformacion(){
-
+        public string obtenerInformacion(){
+            return "Marca: "+Marca+"Modelo: "+Modelo+"Año: "+Ano+"Color: "+Color+"Estado: "+estado;
+        }
+        public void cambiarEstado(){
+            if(estado == "apagado"){
+                estado = "encendido";
+            }else{
+                estado = "apagado";
+            }
         }
     }
 
